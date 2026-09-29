@@ -1,0 +1,4 @@
+//two terms in headers
+
+accept: means what I want
+Content-Type: means what I am sending

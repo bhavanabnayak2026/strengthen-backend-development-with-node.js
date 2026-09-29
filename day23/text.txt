@@ -1,0 +1,5 @@
+npm init asks setup questions; npm init -y accepts defaults automatically 
+
+run
+1. npm init -y 
+2. npm install express
